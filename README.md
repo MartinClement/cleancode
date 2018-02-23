@@ -1,6 +1,6 @@
-# CleanCode
+# CleanCode -- [![Build Status](https://travis-ci.org/MartinClement/cleancode.svg?branch=master)](https://travis-ci.org/MartinClement/cleancode)
 
-Cours sur la qualité du code.
+Cours sur la qualité du code. 
 
 ## Image Docker
 
